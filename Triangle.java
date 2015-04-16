@@ -24,6 +24,7 @@ class Triangle {
 	public void verticalLine() {
 		//Draw a verical line
 		System.out.println("");
+
 		for ( int x = 0; x < n; x++ ) {
 			System.out.println("*");
 		}
