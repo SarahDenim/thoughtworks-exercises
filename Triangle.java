@@ -31,6 +31,7 @@ class Triangle {
 	}
 
 	public void rightTriangle() {
+		//Draw a right triangle
 		System.out.println("");
 
 		for ( int x = 0; x < n; x++) {
